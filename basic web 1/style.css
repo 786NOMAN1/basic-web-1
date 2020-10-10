@@ -1,0 +1,16 @@
+a{background-color: none(122, 226, 127);
+margin-right: 10%;
+}
+
+.element{
+    display: none;
+}
+
+#dropdown:hover .element{
+    display: block;
+    background-color: aqua;
+}
+.navbar{
+    display: flex;
+
+}
